@@ -4,10 +4,8 @@ This repository stores the reference material describing correct use of the CLAP
 
 Use of the CLAP Notation is explained in the following publication:
 
-<source>
 Allori AC, Mulliken JB, Meara JG, et al. Classification of cleft lip/palate: then and now.  *Cleft Palate Craniofac J*. 2015 Sep 4; Epub ahead of print. PMID:26339868.
-</source>
-([View on PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26339868))
+([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26339868))
 
 
 ####Licensure:
